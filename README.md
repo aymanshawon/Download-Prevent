@@ -15,8 +15,10 @@ git clone https://github.com/aymanshawon/Download-Prevent
 * Click 3 Dot 
 * Click More Tools
   * Extensions
-* Trun of Developer Mode
+* Trun on Developer Mode
 * Click Load Unpacked
 * Select Download-Prevent Folder 📂
 
-<img src="https://user-images.githubusercontent.com/73201236/216811134-685fa04c-39ff-4db3-9bb0-027e49cbf719.gif" width=300 height=300>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/73201236/216811134-685fa04c-39ff-4db3-9bb0-027e49cbf719.gif" width=300 height=300><img src="https://user-images.githubusercontent.com/73201236/216822361-c5aa7cb1-2934-4cd3-a6d4-dac5c6334d44.gif" width=300 height=300> <img src="https://user-images.githubusercontent.com/73201236/216822072-0a2ca2ae-6fb7-47f9-9c6c-5083f13e7d12.gif"></h2>
+
+
