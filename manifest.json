@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Download Prevent",
+  "version": "0.0.1",
+  "author": "Ayman Shawon",
+  "action": {
+    "default_icon": "logo.png",
+    "default_title": "Download Prevent"
+  },
+  "icons": {
+    "128": "logo.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "scripting",
+    "tabs",
+    "activeTab",
+    "downloads",
+    "downloads.open"
+  ],
+  "host_permissions": [
+    "https://*"
+  ]
+}
