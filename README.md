@@ -19,5 +19,4 @@ git clone https://github.com/aymanshawon/Download-Prevent
 * Click Load Unpacked
 * Select Download-Prevent Folder 📂
 
-
-![WellDoneGIF](https://user-images.githubusercontent.com/73201236/216811134-685fa04c-39ff-4db3-9bb0-027e49cbf719.gif)
+<img src="https://user-images.githubusercontent.com/73201236/216811134-685fa04c-39ff-4db3-9bb0-027e49cbf719.gif" width=300 height=300>
